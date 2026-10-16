@@ -1,0 +1,7 @@
+DATA=data/chr1
+input.file=$(DATA)_demo.maf.gz
+input.file.compression=gzip
+input.format=Maf
+input.dots=as_gaps
+output.log=$(DATA).maffilter.log 
+maf.filter=ExtractFeature(ref_species=hg38,feature.file=output/02_mafoutput/chr1_features.gtf,feature.format=GTF,feature.file.compression=none,feature.type=all,complete=no,ignore_strand=no),RemoveEmptySequences(unresolved_as_gaps=no),Output(file=$(DATA)_extracted.maf.gz,compression=gzip,mask=no)

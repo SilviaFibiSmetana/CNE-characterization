@@ -1,0 +1,3 @@
+Functional_Group	File
+promoters	./downloads/ENCODE/SCREEN/Combined/GRCh38-PLS.bed
+enhancers	./downloads/ENCODE/SCREEN/Combined/GRCh38-ELS.bed

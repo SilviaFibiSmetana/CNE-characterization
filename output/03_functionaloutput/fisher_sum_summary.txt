@@ -1,0 +1,4 @@
+Mammals_estimated_CNEs_AND_GRCh38-ELS_SumFisher	70	112	961227	3.1328e-26	7.906
+Mammals_estimated_CNEs_AND_GRCh38-PLS_SumFisher	0	112	40891	1	0.000
+Primates_estimated_CNEs_AND_GRCh38-ELS_SumFisher	86	158	961227	3.0528e-28	6.221
+Primates_estimated_CNEs_AND_GRCh38-PLS_SumFisher	0	158	40891	0.63307	0.000

@@ -1,0 +1,9 @@
+Mammals	203
+Theria	204
+Eutheria	205
+Boreoeutheria	206
+Euarchontoglires	207
+Primates	209
+Catarrhini	211
+Hominoidea	212
+Homininae	213

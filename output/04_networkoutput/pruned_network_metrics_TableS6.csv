@@ -1,0 +1,5 @@
+"Metric","Mean","SD","Median"
+"Degree",18.4727,12.1799,15
+"Strength",12.1979,8.668,9.8878
+"Betweenness (Norm/W)",0.0113,0.0198,0.0027
+"PageRank (W)",0.0045,0.0016,0.0046

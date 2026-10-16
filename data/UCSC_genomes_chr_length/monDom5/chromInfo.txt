@@ -1,0 +1,11 @@
+chr1	748055161	/gbdb/monDom5/monDom5.2bit
+chr2	541556283	/gbdb/monDom5/monDom5.2bit
+chr3	527952102	/gbdb/monDom5/monDom5.2bit
+chr4	435153693	/gbdb/monDom5/monDom5.2bit
+chr8	312544902	/gbdb/monDom5/monDom5.2bit
+chr5	304825324	/gbdb/monDom5/monDom5.2bit
+chr6	292091736	/gbdb/monDom5/monDom5.2bit
+chr7	260857928	/gbdb/monDom5/monDom5.2bit
+chrUn	103241611	/gbdb/monDom5/monDom5.2bit
+chrX	79335909	/gbdb/monDom5/monDom5.2bit
+chrM	17079	/gbdb/monDom5/monDom5.2bit
